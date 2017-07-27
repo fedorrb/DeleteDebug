@@ -1,0 +1,2 @@
+deletedebug.exe n:\
+pause
